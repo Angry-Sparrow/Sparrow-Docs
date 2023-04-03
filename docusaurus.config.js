@@ -11,7 +11,7 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Sparrow Docs',
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -21,8 +21,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Sparrow', // Usually your GitHub org/user name.
+  projectName: 'Sparrow-Docs', // Usually your repo name.
 
   presets: [
     [
@@ -153,7 +153,7 @@ const config = {
         logo: {
           alt: 'Facebook Open Source Logo',
           src: 'img/oss_logo.png',
-          href: 'https://opensource.facebook.com',
+          href: 'https://github.com/Angry-Sparrow',
         },
         // Please do not remove the credits, help to publicize Docusaurus :)
         copyright: `Copyright © ${new Date().getFullYear()} Angry-Sparrow, Inc. Built with Docusaurus.`,

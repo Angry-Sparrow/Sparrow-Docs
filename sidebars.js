@@ -27,6 +27,16 @@ const FEDocsSidebar = {
       items: [
         'FE/knowledge-graph/intro'
       ]
+    },
+    {
+      type: 'category',
+      label: 'UI Components Playground',
+      collapsed: false,
+      items: [
+        'FE/ui-components/intro',
+        'FE/ui-components/antd+cropper',
+        'FE/ui-components/PictureViewer',
+      ]
     }
   ]
 }
